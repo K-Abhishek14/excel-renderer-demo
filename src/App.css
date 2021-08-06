@@ -43,7 +43,7 @@
 	padding: 10px;
 }
 
-.ExcelTable2007 TH {
+/* .ExcelTable2007 TH {
 	background-image: url(excel-2007-header-bg.gif);
 	background-repeat: repeat-x; 
 	font-weight: bold;
@@ -52,7 +52,7 @@
 	border-width: 0px 1px 1px 0px;
 	height: 17px;
 	line-height: 17px;
-}
+} */
 
 .ExcelTable2007 TD {
 	border: 0px;
@@ -75,21 +75,21 @@
 	border-width: 0px 1px 1px 0px;
 	font-weight: bold;
 }
-
+/* 
 .ExcelTable2007 TH.heading {
 	background-image: url(excel-2007-header-left.gif);
 	background-repeat: none;
-}
+} */
 
 TH {
 	text-align: center;
 }
 
-.jumbotron-background {
+/* .jumbotron-background {
 	background-image: url(excelmock3.jpg);
 	border-radius: 0rem !important;
 	color: white
-}
+} */
 
 .jumbotron-button {
 	color: #fff !important;
